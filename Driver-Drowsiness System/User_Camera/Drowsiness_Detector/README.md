@@ -1,11 +1,3 @@
-Watch youtube video on how to install the necesaary libraires and run program:
-https://youtu.be/quTUFOviBUU
-
-
-
-**Make sure you download the shape_predictor.dat file for this program**
-
-Downloads:https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
 
 
@@ -42,8 +34,5 @@ pip3 install datetime
 
 
 
-**Demonstration**
 
-
-https://user-images.githubusercontent.com/86638178/128449746-ad49ea71-7b7c-425d-84a1-90046ed2bc81.mp4
 
