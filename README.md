@@ -18,16 +18,14 @@ This project is a Driver Drowsiness Detection System implemented on a Raspberry 
 ## Hardware Requirements
 
 - Raspberry Pi (with camera module)
-- IR LED and Phototransistor for detecting eye blinks
 - Speaker or buzzer for alerts
-- (List any other hardware components here)
 
 ## Software Requirements
 
-- Python 3.x
+- Python 
 - OpenCV (for image processing)
 - dlib (for facial landmarks)
-- (List any other software or libraries here)
+
 
 ## Setup
 
