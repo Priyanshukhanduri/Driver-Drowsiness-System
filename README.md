@@ -1,5 +1,3 @@
-Creating a README file for a driver drowsiness project using Raspberry Pi is an essential step to document your project and help others understand how it works. Below is a template for a README file that you can use as a starting point. Be sure to customize it with specific details about your project:
-
 
 ## Table of Contents
 
